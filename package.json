@@ -1,0 +1,24 @@
+{
+  "name": "dev.ezsoftbone.unity",
+  "version": "1.6.0",
+  "displayName": "EZSoftBone",
+  "description": "A simple secondary motion bone motion simulator for Unity.",
+  "unity": "2020.3",
+  "dependencies": {},
+  "changelogUrl": "https://github.com/makeplayhappy/EZSoftBone/commits/master",
+  "documentationUrl": "https://github.com/makeplayhappy/EZSoftBone",
+  "licensesUrl": "https://github.com/makeplayhappy/EZSoftBone/blob/master/LICENSE",
+  "keywords": [
+    "Dynamic bone",
+    "Animation"
+  ],
+  "author": {
+    "name": "EZhex1991",
+    "url": "https://github.com/EZhex1991"
+  },
+  "hideInEditor": false,
+  "type": "tool",
+  "publishConfig": {
+    "registry": "https://package.openupm.com"
+  }
+}
