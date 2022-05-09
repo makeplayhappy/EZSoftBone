@@ -1,6 +1,6 @@
 {
   "name": "dev.ezsoftbone.unity",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "displayName": "EZSoftBone",
   "description": "A simple secondary motion bone motion simulator for Unity.",
   "unity": "2020.3",
